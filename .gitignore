@@ -1,0 +1,8 @@
+creds.py
+/venv/
+*/__pycache__
+.idea/
+*.pyc
+*~
+*.swp
+__pycache__
